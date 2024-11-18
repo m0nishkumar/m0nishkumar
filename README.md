@@ -3,6 +3,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+at+Zoho;Full+Stack+Developer;AI%20|%20ML%20|%20Data%20Enthusiast;Always%20Learning%20and%20Growing&center=true&width=500&height=50"></a>
 </p>
 <hr/>
+<p align="center">
+  🌐 <a href="https://m0nishkumar.github.io/portfolio/" target="_blank"><b>Visit My Portfolio</b></a>
+</p>
 <h4 align="center">I am a passionate Software Engineer at Zoho, with a B.E. in Computer Science and Engineering. I enjoy solving complex problems, coding, and exploring the latest trends in technology. I believe in lifelong learning and strive to contribute to impactful projects. Always up for challenges and eager to connect with like-minded professionals!</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=monishkumar4050&label=Profile%20views&color=0e75b6&style=plastic" alt="monishkumar4050" /> </p>
@@ -93,7 +96,7 @@
 
 ## 🙋‍♂️ Let's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/monishkumar/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/monish-kumar-2031ba242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="mailto:monishkumar4050@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/monishkumar4050"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 </p>
